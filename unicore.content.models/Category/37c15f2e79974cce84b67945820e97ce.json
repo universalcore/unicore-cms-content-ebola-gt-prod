@@ -1,14 +1,14 @@
 {
-  "subtitle": "Lo que necesitas saber sobre el virus del Zika", 
+  "subtitle": "5 respuestas a las preguntas m\u00e1s frecuentes", 
   "uuid": "37c15f2e79974cce84b67945820e97ce", 
   "language": "spa_ES", 
-  "title": "Informaci\u00f3n b\u00e1sica sobre el Zika", 
+  "title": "Informaci\u00f3n b\u00e1sica sobre el Zika.", 
   "image": "4fbe840bd4c74713a7ee4409ce841228", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "slug": "informacion-basica-sobre-el-zika", 
