@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Es una enfermedad causada por un virus", 
+  "language": "spa_ES", 
+  "title": "1 \u00bfQu\u00e9 es el Zika?", 
+  "primary_category": "37c15f2e79974cce84b67945820e97ce", 
+  "created_at": "2016-03-10T20:39:40.360301+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-03-10T20:39:40.360582+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "El Zika es un  virus que transmite el zancudo Aedes Aegypti, el mismo que transmite el Dengue y el Chikungunya.\r\n\r\nSiguiente respuesta:\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "fef37707c48c4f37b2c8c6c8b77a992d", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "1-que-es-el-zika", 
+  "uuid": "87778aa6ff9449e29c5f560aea1e169e"
+}
