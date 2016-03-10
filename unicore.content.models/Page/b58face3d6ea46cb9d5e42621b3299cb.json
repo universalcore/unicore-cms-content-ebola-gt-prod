@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "8442978f0d2a467cac84b95c43b7b619"
+  ], 
   "id": null, 
   "content": " - El zancudo Aedes Aegypti es el que transmite el Zika, el Dengue y el\r\n   Chikungunya.\r\n - Es negro, con anillos blancos en las patas y tiene un dibujo en forma\r\n   de lira en el dorso del t\u00f3rax y el abdomen.\r\n - Las hembras pican y son las que transmiten enfermedades.\r\n - Vive habitualmente en las casas y sus alrededores.\r\n - Pica principalmente por la ma\u00f1ana y al atardecer, pero tambi\u00e9n puede\r\n   picar a otras horas.\r\n - Al poco tiempo de picar, pone sus huevos en las paredes internas de\r\n   cualquier recipiente cercano con agua limpia estancada.\r\n - Estos huevos pueden desarrollarse hasta convertirse en adultos entre\r\n   7 a 10 d\u00edas.\r\n - Los huevos pueden resistir condiciones de sequ\u00eda por m\u00e1s de un a\u00f1o.\r\n - Un zancudo adulto puede vivir entre 4 y 6 semanas.\r\n\r\nRecuerda:\r\n\r\n - Sin criaderos, no hay zancudos. Sin zancudos, no hay Dengue, Chikungunga ni Zika.\r\n\r\nSiguiente tema:\r\n", 
   "source": null, 
