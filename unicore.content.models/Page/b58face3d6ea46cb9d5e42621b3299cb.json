@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "El zancudo Aedes Aegypti es el que transmite el Zika y hay que evitar su reproducci\u00f3n", 
+  "description": "El zancudo Aedes Aegypti es el que transmite el Zika y hay que evitar su reproducci\u00f3n.", 
   "language": "spa_ES", 
-  "title": "C\u00f3mo es el zancudo Aedes Aegypti y c\u00f3mo evitar los criaderos", 
+  "title": "C\u00f3mo es el zancudo Aedes Aegypti y c\u00f3mo evitar los criaderos.", 
   "primary_category": "6c19ace0ee4b4376b602fee7adef1192", 
-  "created_at": "2016-03-10T21:05:33.370995+00:00", 
+  "created_at": "2016-03-10T21:05:33+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2016-03-10T21:17:18.409952+00:00", 
+  "modified_at": "2016-03-10T21:18:01.769102+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
