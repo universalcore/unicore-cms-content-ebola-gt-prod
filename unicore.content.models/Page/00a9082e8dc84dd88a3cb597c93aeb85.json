@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Cr\u00e9ditos y contacto,", 
+  "language": "spa_ES", 
+  "title": "Para m\u00e1s informaci\u00f3n.", 
+  "primary_category": "6c19ace0ee4b4376b602fee7adef1192", 
+  "created_at": "2016-03-10T21:14:40.875037+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-03-10T21:14:40.875408+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "El contenido de este sitio se ha elaborado con informaci\u00f3n de la Organizaci\u00f3n Panamericana de la Salud, OPS, la Organizaci\u00f3n Mundial de la Salud, OMS, y el apoyo del Fondo de las Naciones Unidas para la Infancia, UNICEF, en Guatemala.\r\n\r\nActualizado al 10 de marzo del 2016.\r\n\r\nSi deseas m\u00e1s informaci\u00f3n, puedes ponerte en contacto o visitar los siguientes enlaces:\r\n\r\nInformaci\u00f3n de OPS/OMS Sobre el Zika\r\n\r\nInformaci\u00f3n de UNICEF sobre el virus del Zika\r\n\r\nWeb http://www.unicef.org/guatemala\r\n\r\nCorreo guatemalacity@unicef.org\r\n\r\nFacebook https://es-es.facebook.com/unicefguatemala\r\n\r\nTwitter https://twitter.com/unicefguatemala\r\n\r\nYouTube https://www.youtube.com/user/unicefguatemala\r\n\r\nSiguiente tema:\r\nSi deseas, repasa nuevamente lo que necesitas saber sobre el virus del Zika.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "para-mas-informacion", 
+  "uuid": "00a9082e8dc84dd88a3cb597c93aeb85"
+}
