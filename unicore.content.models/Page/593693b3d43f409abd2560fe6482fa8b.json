@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "2a26aac0a87943d88fd3c258f0dbcc6e"
+  ], 
   "id": null, 
   "content": "Por ahora no hay una vacuna ni un medicamento espec\u00edfico contra el virus del Zika. S\u00f3lo se puedes tratar los dolores y la fiebre. Para ello, se recomienda lo siguiente:\r\n\r\n - Reposar. \r\n - Tratarse con medicamentos contra la fiebre y los dolores. \r\n - Consumir abundantes l\u00edquidos.\r\n\r\nRecuerda:\r\n\r\n - Si los s\u00edntomas empeoran o aparecen otras complicaciones, debes consultar de inmediato en el servicio de salud m\u00e1s cercano.\r\n\r\n - Las mujeres embarazadas que sospechen haber estado expuestas al virus del Zika deben consultar inmediatamente a un profesional de la salud.\r\n\r\nSiguiente respuesta:\r\n", 
   "source": null, 
