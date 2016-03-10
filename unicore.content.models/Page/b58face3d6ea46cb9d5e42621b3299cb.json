@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "El zancudo Aedes Aegypti es el que transmite el Zika y hay que evitar su reproducci\u00f3n", 
+  "language": "spa_ES", 
+  "title": "C\u00f3mo es el zancudo Aedes Aegypti y c\u00f3mo evitar los criaderos", 
+  "primary_category": "6c19ace0ee4b4376b602fee7adef1192", 
+  "created_at": "2016-03-10T21:05:33.370995+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2016-03-10T21:05:33.371237+00:00", 
+  "_version": {
+    "package_version": "1.4.4", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": " - El zancudo Aedes Aegypti es el que transmite el Zika, el Dengue y el\r\n   Chikungunya.\r\n - Es negro, con anillos blancos en las patas y tiene un dibujo en forma\r\n   de lira en el dorso del t\u00f3rax y el abdomen.\r\n - Las hembras pican y son las que transmiten enfermedades.\r\n - Vive habitualmente en las casas y sus alrededores.\r\n - Pica principalmente por la ma\u00f1ana y al atardecer, pero tambi\u00e9n puede\r\n   picar a otras horas.\r\n - Al poco tiempo de picar, pone sus huevos en las paredes internas de\r\n   cualquier recipiente cercano con agua limpia estancada.\r\n - Estos huevos pueden desarrollarse hasta convertirse en adultos entre\r\n   7 a 10 d\u00edas.\r\n - Los huevos pueden resistir condiciones de sequ\u00eda por m\u00e1s de un a\u00f1o.\r\n - Un zancudo adulto puede vivir entre 4 y 6 semanas.\r\n\r\nRecuerda:\r\n\r\n - Sin criaderos, no hay zancudos. Sin zancudos, no hay Dengue,\r\n   Chikungunga ni Zika.\r\n\r\nSiguiente tema:\r\nConsejos para evitar los criaderos de zancudos en tu casa y patio.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": "d497c7a101734ca09721c16b469f398f", 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "como-es-el-zancudo-aedes-aegypti-y-como-evitar-los-criaderos", 
+  "uuid": "b58face3d6ea46cb9d5e42621b3299cb"
+}
